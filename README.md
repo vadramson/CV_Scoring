@@ -27,3 +27,6 @@ Cela semble génial, non ?
 Eh bien, avec ces quelques lignes de code, vous pouvez le faire. Tout ce que vous avez à faire est de fournir un fichier .CSV contenant les mots clés les plus essentiels que vous recherchez et laissez l'IA s'occuper de l'affaire en vous retournant un fichier .CSV de scoring des candidats et aussi une représentation visuelle du processus de scoring.
 
 Vous n'avez plus qu'à appeler le candidat présélectionné pour un entretien. 
+
+
+![Visual-Scoring-Report](https://github.com/vadramson/CV_Scoring/blob/main/scoring.png)
